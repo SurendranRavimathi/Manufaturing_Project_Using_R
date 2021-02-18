@@ -4,3 +4,6 @@ Part backorders is a common supply chain problem. Working to identify parts at r
 
 went_on_backorder - Product actually went on backorder or not. This is the target value.
 
+This is a classification problem .
+Here  we used basic logistic regression method .
+
